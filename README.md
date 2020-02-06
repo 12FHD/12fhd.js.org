@@ -1,2 +1,2 @@
-# novoto.js.org
-Novoto Website
+# 12FHD Website
+The Official Website of 12FHD
